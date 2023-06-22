@@ -2,7 +2,6 @@ package entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
-import org.h2.table.Plan;
 
 import java.sql.Timestamp;
 
